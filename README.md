@@ -5,7 +5,7 @@ Built for farmers, farm managers, and agronomic consultants to coordinate operat
 
 ---
 
-## 🌾 Key Highlights & Value Proposition
+##  Key Highlights & Value Proposition
 
 - **Login-First Architecture**: High-fidelity split-screen authentication experience featuring real agricultural visuals and 1-Click demo logins for judges.
 - **Rule-Based Operations Planner**: Deterministic scheduling engine that evaluates convective precipitation windows (Sonipat rain cell) and resolves shared equipment contention (Solar Booster Pump #1).
@@ -22,14 +22,14 @@ Built for farmers, farm managers, and agronomic consultants to coordinate operat
 
 ---
 
-## 🚀 Quick Start Guide
+## Quick Start Guide
 
 ### 1. Start the Development Server
 ```bash
 npm run dev
 ```
 The application will run locally at:
-👉 **`http://localhost:5173/`**
+ **`http://localhost:5173/`**
 
 ### 2. Build for Production
 ```bash
@@ -39,7 +39,7 @@ Built output will be bundled cleanly into `dist/`.
 
 ---
 
-## 🔑 Demo Access Credentials (1-Click Login Provided)
+## Demo Access Credentials (1-Click Login Provided)
 
 When the application opens, the authentication screen appears first. Click any of the **1-Click Demo Access buttons** on the card or use:
 
@@ -51,7 +51,7 @@ When the application opens, the authentication screen appears first. Click any o
 
 ---
 
-## 🚜 Preconfigured Demonstration Scenario: "Rain Risk + Shared Equipment Conflict"
+##  Preconfigured Demonstration Scenario: "Rain Risk + Shared Equipment Conflict"
 
 1. **Initial Conditions**:
    - **Farm A (Sonipat - 12 acres Wheat)**: Has foliar fungicide spraying scheduled at 14:00 today. Microclimate forecast indicates an **82% rain probability** at 14:00 with gusting winds.
@@ -64,7 +64,7 @@ When the application opens, the authentication screen appears first. Click any o
 
 ---
 
-## 📋 Feature Breakdown: Simulation vs External Integration Requirements
+##  Feature Breakdown: Simulation vs External Integration Requirements
 
 ### Functional Demonstration (In-Browser Heuristics)
 - Multi-plot spatial management and state persistence
